@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Jeune développeur mais vieux passionné d’informatique et de technologie 💻, je suis acutellement une formation de Concepteur Developpeur d'Application après une formation développeur web et web mobile ou j’ai plus que confirmé mon envie de faire ma place dans ce domaine.
+Jeune développeur mais vieux passionné d’informatique et de technologie 💻, je suis acutellement une formation de Concepteur Developpeur d'Applications après une formation développeur web et web mobile ou j’ai plus que confirmé mon envie de faire ma place dans ce domaine.
 
 Ce que je fais ? 👇
 • Concevoir et coder des sites web, logiciels, applications mobiles, etc 
