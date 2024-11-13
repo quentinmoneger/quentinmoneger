@@ -1,7 +1,8 @@
-Jeune développeur mais vieux passionné d’informatique et de technologie 💻, je travaille actuellement chez Inetum au sein de l'équipe Ministère de l'Agriculture ou j’ai plus que confirmé mon envie de faire ma place dans ce domaine.
+Hi there! 👋
+I'm Quentin, a Software Engineer at Capgemini, where I work on exciting projects for Airbus. 
 
-Ce que je fais ? 👇
-• Concevoir et coder des sites web, logiciels, applications mobiles, etc 
-
-✉ Disponible à tout moment pour échanger.
-
+About Me
+💼 Currently working on development projects within the aerospace sector
+🚀 Skilled in tools and technologies like Jenkins, SonarQube, Github, and Python
+🌱 Always learning and exploring new technologies to expand my skill set
+🎯 Focused on creating efficient and impactful solutions that align with both client and team goals
